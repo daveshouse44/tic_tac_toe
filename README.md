@@ -1,27 +1,48 @@
-# Myapp
+# Tic Tac Toe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+Followed a tutorial on how to create, deploy and host an Angular App.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-[Link](#link)
 
-## Code scaffolding
+-[Screenshot](#screenshot)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-[Technologies-Used](#technologies-used)
 
-## Build
+-[Contributions](#contributions)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-[Credits](#credits)
 
-## Running unit tests
+-[Questions](#questions)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Link
 
-## Running end-to-end tests
+[Check out this App here!](https://shop-react-redux.herokuapp.com/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Screenshot
 
-## Further help
+![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](./Assets/22-state-homework-demo-01.gif)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Technologies-Used
+
+- [Angular](https://angular.io)
+- [Firebase](https://firebase.google.com/)
+- [Nebular](https://akveo.github.io/nebular/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## Contributions
+
+David Tierney
+
+## Credits
+
+https://fireship.io/
+
+## Questions:
+
+[GitHub](https://github.com/daveshouse44)
+
+[LinkedIn](https://www.linkedin.com/in/david-tierney-652030214/)
+
+[Email: daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
