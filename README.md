@@ -18,11 +18,11 @@ Followed a tutorial on how to create, deploy and host an Angular App.
 
 ## Link
 
-[Check out this App here!](https://shop-react-redux.herokuapp.com/)
+[Check out this App here!](https://tic-tac-toe-44.herokuapp.com/)
 
 ## Screenshot
 
-![A user registers on the Signup page and then navigates to the Products page, which displays images and descriptions of products.](./Assets/22-state-homework-demo-01.gif)
+![Screenshot of completed tic tac toe game!](./images/tic-tac-toe-sc.jpg)
 
 ## Technologies-Used
 
